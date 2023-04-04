@@ -1,6 +1,5 @@
-# validators - Python Data Validation for Humans™
+# Validator - Python Data Validator
 
-[![Tests][tests-badge]][tests-link] [![Bandit][bandit-badge]][bandit-link] [![Version Status][vs-badge]][vs-link] [![Downloads][dw-badge]][dw-link]
 
 Python has all kinds of data validation tools, but every one of them seems to
 require defining a schema or form. I wanted to create a simple validation
