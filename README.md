@@ -6,8 +6,9 @@ require defining a schema or form. I wanted to create a simple validation
 library where validating a simple value does not require defining a form or a
 schema.
 
-```python
->>> import Validator
+```python pip install Validator
+>>> from validate import Validator
+
 
 >>> data = {
     "user": {
